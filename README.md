@@ -23,7 +23,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-🛠️ Usage
+## 🛠️ Usage
 bash
 Copy
 Edit
@@ -34,7 +34,8 @@ Flag	Description	Example
 --type	Content type: images, videos, albums, folders	--type albums
 --delay	Delay in seconds between requests (default: 2)	--delay 5
 --export	Export results to CSV	--export
-📂 Output
+
+## 📂 Output
 If --export is used, results will be saved as:
 
 php-template
@@ -47,7 +48,7 @@ Username
 Title
 URL (direct to image/album/folder)
 
-🔐 Authentication (Optional)
+## 🔐 Authentication (Optional)
 Public endpoints don’t require an API key, but for higher rate limits or access to private content:
 
 Get a SmugMug API token
