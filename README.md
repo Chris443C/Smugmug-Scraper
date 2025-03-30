@@ -21,7 +21,6 @@ A command-line tool to search public SmugMug user content using fuzzy logic sear
 
 Install dependencies:
 
-```bash
 pip install -r requirements.txt
 
 🛠️ Usage
