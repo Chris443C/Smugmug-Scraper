@@ -62,5 +62,5 @@ HEADERS = {
     "Accept": "application/json",
     "Authorization": "Bearer YOUR_API_KEY"
 }
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This tool is for educational and personal use only. Be respectful of SmugMug's API terms of service and avoid aggressive scraping.
